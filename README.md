@@ -1,5 +1,4 @@
-# UJLSDE
-This is a tool for modifying Um Jammer Lammy's subtitles. 
+# Jungsde
+This is a tool for modifying Jung Rhythm subtitles. 
 
-## Compatibility
-This tool currently only works for retail USA copies of Um Jammer Lammy
+thanks to zungle/dhterech for the original UjlSDE
